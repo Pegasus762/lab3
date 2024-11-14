@@ -1,4 +1,4 @@
 # lab3
 Student Information Registration System
-Username: pegasus
+Username: Pegasus
 Password: admin123
